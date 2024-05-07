@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TeensyRPR")(type "KiCad")(uri "${KIPRJMOD}/TeensyRPR.kicad_sym")(options "")(descr ""))
+  (lib (name "TeensyRPR-rescue")(type "KiCad")(uri "${KIPRJMOD}/TeensyRPR-rescue.kicad_sym")(options "")(descr ""))
+)
